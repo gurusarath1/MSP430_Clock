@@ -6,4 +6,7 @@
   </a>
 </p>
 
+<img src="https://github.com/gurusarath1/MSP430_Clock/blob/master/%23FRONT%20PANEL.jpg" alt="Guru Sarath T">
+<img src="https://github.com/gurusarath1/MSP430_Clock/blob/master/%23BACK%20side.jpg" alt="Guru Sarath T">
+
 > Embedded C code to control RTC via I2C interface
